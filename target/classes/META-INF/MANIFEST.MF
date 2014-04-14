@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1397486115741
+Build-Jdk: 1.7.0_51
+Built-By: xumakgt6
+Bundle-Activator: com.xumak.hellobundle.Activator
+Bundle-ManifestVersion: 2
+Bundle-Name: HelloBundle OSGi Bundle
+Bundle-SymbolicName: com.xumak.HelloBundle
+Bundle-Version: 1.0.0.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Import-Package: org.osgi.framework;version="[1.6,2)"
+Tool: Bnd-1.50.0
